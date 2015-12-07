@@ -1,2 +1,2 @@
-# diode
+# unfinite/diode
 The Diode project
