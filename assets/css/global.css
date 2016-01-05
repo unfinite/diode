@@ -1,0 +1,27 @@
+body {
+	margin-top: 10vh;
+	background-image: url('../img/linedpaper.png');
+}
+#container {
+	background-color: black;
+	height: 100%;
+}
+
+/* FUTURE ME I AM SORRY FOR THIS DUN PUNISH ME PLS 
+	GAWD NU */
+
+.logo {
+	/* Catastrophe starts now */
+	line-height: 35px;
+}
+
+.logo #main {
+	font-family: "Rokkitt";
+	font-size: 70px;
+	font-color: gray;
+}
+
+.logo #slogan {
+	font-family: "Rokkitt";
+	font-size: 20px;
+}
